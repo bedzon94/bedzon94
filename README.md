@@ -1,7 +1,3 @@
-# Norris
-Configuration files for my GitHub profile.
-##
-
 - 👋 Hi there, I’m Norris
 - 👀 I’m interested in learning Programming and Data Science skills
 - 🌱 I’m currently studying Software Engineering 

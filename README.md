@@ -26,4 +26,7 @@
 
 ##
 
+### :hammer_and_wrench: Languages:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedzon94&layout=compact&theme=vision-friendly-dark)](https://github.com/bedzon94/github-readme-stats)
+

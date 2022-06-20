@@ -20,6 +20,8 @@
 <img src="https://komarev.com/ghpvc/?bedzon94=bedzon94&style=flat-square&color=blue" alt=""/>
 
 
+![Profile views](https://gpvc.arturio.dev/bedzon94) 
+
 ##
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bedzon94&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

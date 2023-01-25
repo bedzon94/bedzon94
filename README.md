@@ -11,8 +11,8 @@
 ### :man_technologist: About Me :
 
 - 👋 Hi there, I’m Norris
-- 👀 I have interests in Programming
-- 🌱 I’m currently studying Software Engineering 
+- 👀 I love to explore my interests in Programming
+- 🌱 Software Engineering 
 - 💞️ I’m looking for mentors who can guide me through this fantastic journey
 - 📫 e-mail me on bedzon@ieee.org
 

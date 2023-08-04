@@ -20,7 +20,7 @@
 <img src="https://komarev.com/ghpvc/?bedzon94=bedzon94&style=flat-square&color=blue" alt=""/>
 
 
-![Profile views](https://gpvc.arturio.dev/bedzon94) 
+![](https://komarev.com/ghpvc/?username=bedzon94)
 
 ##
 

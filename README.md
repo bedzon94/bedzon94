@@ -24,13 +24,14 @@
 
 ##
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bedzon94&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bedzon94)](https://git.io/streak-stats)
 
 ##
 
 ### :hammer_and_wrench: Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedzon94&layout=compact&theme=vision-friendly-dark)](https://github.com/bedzon94/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bedzon94)](https://github.com/bedzon94/github-readme-stats)
+
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C” alt=“C" width="40" height="40"/>&nbsp;

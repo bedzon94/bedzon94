@@ -24,7 +24,7 @@
 
 ##
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bedzon94)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bedzon94&theme=dark&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
 
 ##
 
